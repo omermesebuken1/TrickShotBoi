@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ball
+  - RestrictedArea
+  - NoEffect
+  - Obstacle
+  - PoolBall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Game
+  - Background
+  - Post Processing
+  - Collision
+  - TouchArea
+  - BasketBallNet
+  - OtherBasketball
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: whiteBackground
+    uniqueID: 58950535
+    locked: 0
+  - name: ArtWork
+    uniqueID: 51952425
+    locked: 0
+  - name: WallFills
+    uniqueID: 3626773587
+    locked: 0
+  - name: Walls
+    uniqueID: 2900793617
+    locked: 0
+  - name: CornerFills
+    uniqueID: 2163545251
+    locked: 0
+  - name: Trajactory
+    uniqueID: 1088571243
+    locked: 0
+  - name: Corners
+    uniqueID: 3785481275
+    locked: 0
+  - name: "HoleG\xF6lge"
+    uniqueID: 2098928637
+    locked: 0
+  - name: HoleAlt
+    uniqueID: 4042156949
+    locked: 0
+  - name: Ball
+    uniqueID: 4178692893
+    locked: 0
+  - name: BasketBall
+    uniqueID: 738771575
+    locked: 0
+  - name: BasketBallNet
+    uniqueID: 2289447565
+    locked: 0
+  - name: BasketBallRing
+    uniqueID: 1296746737
+    locked: 0
+  - name: HoleCover
+    uniqueID: 2750308827
+    locked: 0
+  - name: "Hole\xDCst"
+    uniqueID: 594815333
+    locked: 0
+  - name: LayerLines
+    uniqueID: 370224153
+    locked: 0
+  - name: GoalEffect
+    uniqueID: 1432820439
+    locked: 0
+  - name: BlackBackground
+    uniqueID: 1330711245
+    locked: 0
+  - name: UI
+    uniqueID: 2573604123
+    locked: 0
+  - name: LeaderBoard
+    uniqueID: 3675144783
+    locked: 0
